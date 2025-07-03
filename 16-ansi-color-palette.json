@@ -1,0 +1,23 @@
+{
+    "background": "#FDF6E3",
+    "black": "#56595C",
+    "blue": "#2E8BCE",
+    "brightBlack": "#45484B",
+    "brightBlue": "#2176C7",
+    "brightCyan": "#259286",
+    "brightGreen": "#738A04",
+    "brightPurple": "#C61C6F",
+    "brightRed": "#BD3613",
+    "brightWhite": "#999690",
+    "brightYellow": "#A57705",
+    "cursorColor": "#536870",
+    "cyan": "#32A198",
+    "foreground": "#536870",
+    "green": "#85981C",
+    "name": "Solarized Light Customized",
+    "purple": "#D13A82",
+    "red": "#C94C22",
+    "selectionBackground": "#EEE8D5",
+    "white": "#A6A49D",
+    "yellow": "#B4881D"
+}
